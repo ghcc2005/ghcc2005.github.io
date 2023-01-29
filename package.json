@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@googlemaps/markerclusterer": "^2.0.15"
+    }
+}
