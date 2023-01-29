@@ -144,7 +144,16 @@ function initMap(location) {
         {location: {lat: 55.91329, lng: -3.32156}}, 
         {location: {lat: 55.9118, lng: -3.3215}}, 
         {location: {lat: 55.9109, lng: -3.3215}, content: '<h2>Heriot watt campus</h2>'}, 
-        {location: {lat: 55.9113, lng: -3.32}}
+        {location: {lat: 55.9113, lng: -3.32}},
+        // town
+        {location: {lat: 55.955330274019374, lng:-3.1886875079554837}},
+        {location: {lat: 55.95045275244971, lng: -3.1883441852294623}},
+        {location: {lat: 55.95131777646914, lng: -3.1954681317944087}},
+        {location: {lat: 55.952615276150276, lng: -3.193193619156272}},
+        // meadows
+        {location: {lat: 55.941777434166006, lng: -3.191200531846362}},
+        {location: {lat: 55.94029930899516, lng: -3.187595643223136}},
+        {location: {lat: 55.940767988893164, lng: -3.1867158784710568}}
     ];
 
 
